@@ -65,4 +65,4 @@
   📆 2016 - 2020\
   📍 **University of Salerno** - Salerno, Italy
 - 📖 **NexSoft S.r.L**\
-  📆 February 2020\
+  📆 February 2020
