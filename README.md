@@ -18,7 +18,7 @@
 <!-- Github Stats -->
 <p align='center'>
   <a href='https://github.com/kenz097' target="_blank">
-    <img align='center' src='https://github-readme-stats.vercel.app/api?username=ETesauro&show_icons=true&theme=dracula' width='50%' />
+    <img align='center' src='https://github-readme-stats.vercel.app/api?username=kenz097&show_icons=true&theme=dracula' width='50%' />
   </a>
 </p>
 
