@@ -39,7 +39,7 @@
 </td>
     <td border="none">
         <div align="left" width="25%">
-            <img src="https://github-readme-stats.vercel.app/api?username=kenz097&hide=issues&theme=darcula&show_icons=true" alt="Activities of Vincenzo"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=kenz097&hide=issues&theme=Gradient&show_icons=true" alt="Activities of Vincenzo"/>
      </div>
     </td>
     </table>
