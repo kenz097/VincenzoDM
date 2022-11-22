@@ -65,5 +65,5 @@
   📆 2016 - 2020\
   📍 **University of Salerno** - Salerno, Italy
 - 📖 **Internship**\
-  📍 NexSoft S.P.A.\
-  📆 02/2020 - 06/2020
+  📆 02/2020 - 06/2020\
+  📍 NexSoft S.P.A.
