@@ -64,5 +64,6 @@
 - 📖 **Bachelor Degree**\
   📆 2016 - 2020\
   📍 **University of Salerno** - Salerno, Italy
-- 📖 **Internship in NexSoft S.P.A.**\
+- 📖 **Internship**\
+  📍 **NexSoft S.P.A.
   📆 02/2020 - 06/2020
