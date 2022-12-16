@@ -43,11 +43,12 @@
      </div>
     </td>
     </table>
-    <!--
-**kenz097/VincenzoDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align = "center">
   <img src = "https://komarev.com/ghpvc/?username=kenz097&color=green">
 </p>
+    <!--
+**kenz097/VincenzoDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!-- RESUME -->
 
 <h1></h1>
